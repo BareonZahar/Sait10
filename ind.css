@@ -1,0 +1,33 @@
+ body {
+      position: relative;
+
+  }
+h1{
+    color: #864076;
+}
+.v{
+    text-align: justify;
+}
+button{
+    display: inline-block;
+    color: darkred;
+}
+p{
+    color: #ffd500;
+}
+.qw{
+    color: green;
+}
+b{
+    color: black;
+}
+h4{
+    color: navy;
+}
+footer{
+    text-align: center;
+}
+a:hover{
+    border: 20px solid red;
+    box-shadow: 5px -5px #ffd500;
+}
